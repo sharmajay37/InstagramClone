@@ -52,7 +52,7 @@ InstagramClone/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/InstagramClone.git
+   git clone https://github.com/sharmajay37/InstagramClone.git
    cd InstagramClone
 ````
 
@@ -77,12 +77,12 @@ InstagramClone/
 
 ---
 
-## 🔮 Future Improvements  
+## 🔮 Future Improvements
 
-- 💬 Add **real-time chat** between users  
-- ❤️ Implement **likes & comments** on posts  
-- 🎥 Add support for **video uploads**  
-- 🌙 Dark Mode for better UI/UX  
+* 💬 Add **real-time chat** between users
+* ❤️ Implement **likes & comments** on posts
+* 🎥 Add support for **video uploads**
+* 🌙 Dark Mode for better UI/UX
 
 ---
 
@@ -106,8 +106,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ```
 
 ---
-
-👉 Ab README **zyada professional aur clean** lagega (screenshots wala section hata diya hai).  
-
-Kya aap chahte ho mai isme ek **Demo Section** (jisme future mein aap YouTube/GIF demo ka link daal sako) bhi add kar du taaki aur attractive ban jaye?
-```
