@@ -1,4 +1,3 @@
-```markdown
 # 📸 Instagram Clone App  
 
 An **Instagram-like social media app** built with **Kotlin** and powered by **Firebase** services.  
@@ -103,5 +102,3 @@ Contributions are always welcome!
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-```
