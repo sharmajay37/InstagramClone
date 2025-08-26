@@ -87,10 +87,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
----
-
-👉 Ye `README.md` aapke **Instagram Clone App** ke liye professional lagega aur GitHub par upload karne ke liye perfect hai.  
-
-Kya aap chahte ho ki mai isme **badges** (Android, Kotlin, Firebase icons) bhi add kar du jisse aur attractive lage?
-```
