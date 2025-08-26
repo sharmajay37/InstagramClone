@@ -77,12 +77,12 @@ InstagramClone/
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Improvements  
 
-* 💬 Add **real-time chat** between users
-* ❤️ Implement **likes & comments** on posts
-* 🎥 Add support for **video uploads**
-* 🌙 Dark Mode for better UI/UX
+- 💬 Add **real-time chat** between users  
+- ❤️ Implement **likes & comments** on posts  
+- 🎥 Add support for **video uploads**  
+- 🌙 Dark Mode for better UI/UX  
 
 ---
 
