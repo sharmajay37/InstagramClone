@@ -1,48 +1,46 @@
-# 📸 Instagram Clone App (Kotlin + Firebase)
+# 📸 Instagram Clone App  
 
-An **Instagram-like Android application** built with **Kotlin** and **Firebase**, featuring authentication, user feeds, image uploads, search functionality, and user profiles.  
-If a user is already logged in, they are redirected directly to the **Home Page**.
-
----
-
-## 🚀 Features
-
-- 🔑 **User Authentication** (Login & Signup with Firebase Email/Password)
-- 🏠 **Home Feed** – View uploaded images
-- 🔍 **Search** – Find users/content
-- ⬆️ **Upload Images** – Share photos like Instagram
-- 👤 **User Profile** – Manage and view user information
-- 🔄 **Auto Login** – If already logged in, user is taken directly to Home Activity
-- 📱 **Fragment-based Navigation** – Feed, Search, Upload, Profile handled via fragments
+An **Instagram-like social media app** built with **Kotlin** and powered by **Firebase** services.  
+The app allows users to **sign up, log in, upload photos, search users, view feeds, and manage their profile**.  
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Key Features  
 
-- **Language:** Kotlin  
-- **Backend:** Firebase Authentication & Firestore  
-- **Database:** Firebase Firestore  
-- **Storage:** Firebase Storage (for images)  
-- **UI:** Android XML + Fragments  
+- 🔐 **Authentication** – Secure login & signup using Firebase (Email & Password)  
+- 🏠 **Feed** – Scroll through posts uploaded by users  
+- 🔍 **Search** – Search functionality to discover users/content  
+- ⬆️ **Upload** – Upload images directly from the device to the feed  
+- 👤 **Profile** – View and manage user profile information  
+- 🔄 **Auto-Login** – If logged in previously, users are taken directly to **Home**  
+- 📱 **Modern UI** – Fragment-based navigation similar to Instagram  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** Kotlin, XML (Android UI)  
+- **Backend Services:** Firebase Authentication, Firestore Database, Firebase Storage  
+- **Architecture:** MVVM (with Fragments & Activities)  
 - **IDE:** Android Studio  
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure  
 
 ```
 
-InstagramCloneApp/
+InstagramClone/
 │── app/
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/com/example/instagramclone/
-│   │   │   │   ├── activities/        # Login, Signup, Home Activities
-│   │   │   │   ├── fragments/         # Feed, Search, Upload, Profile
-│   │   │   │   ├── adapters/          # RecyclerView Adapters
-│   │   │   │   ├── models/            # Data Models
-│   │   │   │   └── utils/             # Helper Classes
-│   │   │   └── res/                   # Layouts, Drawables, Values
+│   │   │   │   ├── activities/      # Login, Signup, Home
+│   │   │   │   ├── fragments/       # Feed, Search, Upload, Profile
+│   │   │   │   ├── adapters/        # RecyclerView Adapters
+│   │   │   │   ├── models/          # Data Models
+│   │   │   │   └── utils/           # Helper Functions
+│   │   │   └── res/                 # Layouts, Drawables, Values
 │   └── build.gradle
 └── README.md
 
@@ -50,38 +48,55 @@ InstagramCloneApp/
 
 ---
 
-## ⚙️ Setup & Installation
+## ⚙️ Setup & Installation  
 
-1. **Clone the repository**
+1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/InstagramCloneApp.git
+   git clone https://github.com/sharmajay37/InstagramClone.git
+   cd InstagramClone
 ````
 
 2. **Open in Android Studio**
 
-3. **Setup Firebase**
+3. **Configure Firebase**
 
-   * Create a Firebase project
-   * Add your Android app package
-   * Download `google-services.json` and place it in:
+   * Create a project in [Firebase Console](https://console.firebase.google.com/)
+   * Register your Android app & download `google-services.json`
+   * Place it inside:
 
      ```
      app/
      ```
-   * Enable **Authentication (Email/Password)** in Firebase Console
-   * Enable **Firestore Database & Storage**
+   * Enable:
 
-4. **Build & Run** the project on an emulator or physical device
+     * Firebase **Authentication** → Email/Password
+     * Firebase **Firestore Database**
+     * Firebase **Storage**
+
+4. **Run the App** on Emulator/Physical Device 🚀
 
 ---
 
+## 🔮 Future Improvements
 
-## 🙌 Contributing
+* 💬 Add **real-time chat** between users
+* ❤️ Implement **likes & comments** on posts
+* 🎥 Add support for **video uploads**
+* 🌙 Dark Mode for better UI/UX
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome!
+
+1. Fork the project
+2. Create a new branch (`feature-xyz`)
+3. Commit your changes
+4. Push & Open a Pull Request
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
