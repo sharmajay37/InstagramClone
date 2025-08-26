@@ -77,8 +77,6 @@ InstagramClone/
 
 ---
 
----
-
 ## 🔮 Future Improvements
 
 * 💬 Add **real-time chat** between users
@@ -104,3 +102,12 @@ Contributions are always welcome!
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
+
+```
+
+---
+
+👉 Ab README **zyada professional aur clean** lagega (screenshots wala section hata diya hai).  
+
+Kya aap chahte ho mai isme ek **Demo Section** (jisme future mein aap YouTube/GIF demo ka link daal sako) bhi add kar du taaki aur attractive ban jaye?
+```
