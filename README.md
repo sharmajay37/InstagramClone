@@ -1,4 +1,14 @@
+Perfect 👍
+Main aapke Instagram Clone App ke liye **final corrected `README.md`** bana deta hoon jisme sab headings, spacing aur formatting GitHub ke hisaab se properly render hogi.
+
+---
+
+```markdown
 # 📸 Instagram Clone App  
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blueviolet?logo=kotlin&logoColor=white)](https://kotlinlang.org/)  
+[![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)](https://firebase.google.com/)  
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-IDE-brightgreen?logo=androidstudio)](https://developer.android.com/studio)  
 
 An **Instagram-like social media app** built with **Kotlin** and powered by **Firebase** services.  
 The app allows users to **sign up, log in, upload photos, search users, view feeds, and manage their profile**.  
@@ -52,7 +62,7 @@ InstagramClone/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/sharmajay37/InstagramClone.git
+   git clone https://github.com/your-username/InstagramClone.git
    cd InstagramClone
 ````
 
@@ -106,3 +116,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ```
 
 ---
+
+✅ Ab is version me saare headings (`##`) ke baad proper **space** hai, isliye GitHub pe woh **heading format** me render hoga (jaise bada bold text).  
+
+Kya aap chahte ho mai isme **top par ek short description banner style line** (jaise tagline) bhi add kar du taaki aur professional lage?
+```
