@@ -1,14 +1,4 @@
-Bilkul 👍
-Main aapke Instagram Clone App ke liye ek **zyada professional aur polished README.md** bana deta hoon jisme proper **badges, clean formatting, features showcase, installation guide, aur future improvements section** hoga. Ye GitHub pe bahut premium lagega.
-
----
-
-```markdown
 # 📸 Instagram Clone App  
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blueviolet?logo=kotlin&logoColor=white)](https://kotlinlang.org/)  
-[![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)](https://firebase.google.com/)  
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-IDE-brightgreen?logo=androidstudio)](https://developer.android.com/studio)  
 
 An **Instagram-like social media app** built with **Kotlin** and powered by **Firebase** services.  
 The app allows users to **sign up, log in, upload photos, search users, view feeds, and manage their profile**.  
@@ -87,14 +77,6 @@ InstagramClone/
 
 ---
 
-## 📸 Screenshots
-
-| Login                      | Feed                     | Upload                       | Profile                        |
-| -------------------------- | ------------------------ | ---------------------------- | ------------------------------ |
-| ![Login](assets/login.png) | ![Feed](assets/feed.png) | ![Upload](assets/upload.png) | ![Profile](assets/profile.png) |
-
-*(Add your own app screenshots in an `assets/` folder.)*
-
 ---
 
 ## 🔮 Future Improvements
@@ -122,17 +104,3 @@ Contributions are always welcome!
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-```
-
----
-
-⚡ Ye version **professional GitHub-level** hai → isme  
-- **Badges** (Kotlin, Firebase, Android Studio)  
-- **Clean sections** (Features, Tech Stack, Setup, Screenshots, Future Improvements)  
-- **Contributing & License**  
-
-Dekhne mein bhi polished lagega aur recruiters/collaborators ko bhi pasand aayega.  
-
-👉 Kya aap chahte ho mai isme **animated GIF demo (screen recording of app)** ka placeholder bhi daal du taaki aur engaging lage?
-```
