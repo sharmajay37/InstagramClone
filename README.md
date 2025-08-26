@@ -53,7 +53,7 @@ InstagramClone/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/InstagramClone.git
+   git clone https://github.com/sharmajay37/InstagramClone.git
    cd InstagramClone
 ````
 
@@ -63,11 +63,7 @@ InstagramClone/
 
    * Create a project in [Firebase Console](https://console.firebase.google.com/)
    * Register your Android app & download `google-services.json`
-   * Place it inside:
-
-     ```
-     app/
-     ```
+  
    * Enable:
 
      * Firebase **Authentication** → Email/Password
@@ -77,7 +73,7 @@ InstagramClone/
 4. **Run the App** on Emulator/Physical Device 🚀
 
 ---
-
+````
 ## 🔮 Future Improvements
 
 * 💬 Add **real-time chat** between users
