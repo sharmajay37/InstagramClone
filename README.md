@@ -1,5 +1,3 @@
-
-
 ```markdown
 # 📸 Instagram Clone App  
 
@@ -103,10 +101,6 @@ Contributions are always welcome!
 ## 📜 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-```
 
 ---
 
